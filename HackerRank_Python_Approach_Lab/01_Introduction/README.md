@@ -16,6 +16,7 @@ This repository is a dedicated space for documenting my technical approach to al
 | :----------------- | :------------------------------------- | :-------------------------------------- |
 | **Hello World**    | Basic Output & Environment Setup       | [View Logic](./Hello_World.txt)         |
 | **Python If-Else** | Cascading Conditionals & Parity Checks | [View Logic](./conditional_if_else.txt) |
+| **Arithmetic Operators** | Mathematical Operations & STDIN | [View Logic](./arithmetic_operators.txt) |
 
 ---
 
