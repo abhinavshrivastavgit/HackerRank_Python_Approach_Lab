@@ -3,4 +3,4 @@ The Breakdown
 
 **2."Hello, World":** This is called a String. In Python, any text wrapped in quotation marks (" or ') is treated as data, not as code.
 
-**3.Parentheses ():** These act as containers. They hold the "arguments" (the information) that you want the function to use.
+*3.Parentheses ():* These act as containers. They hold the "arguments" (the information) that you want the function to use.
