@@ -20,7 +20,8 @@ _**Introduction:**
 | :----------------- | :------------------------------------- |
 | **Hello World**    | Basic Output & Environment Setup       |
 | **Python If-Else** | Cascading Conditionals & Parity Checks |
-| **Arithmetic Operators** | Mathematical Operations & STDIN | 
+| **Arithmetic Operators** | Mathematical Operations & STDIN |
+| **Integer Division** | Key Difference between Integer(//) and float(/) division |
 
 ---
 
