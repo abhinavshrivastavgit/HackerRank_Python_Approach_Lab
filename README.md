@@ -1,9 +1,7 @@
 # HackerRank Python Approach Lab 🧪
 
-<<<<<<< HEAD
 Technical problem solving and algorithmic logic practice for AI Product Management.
 
-=======
 This repository is a dedicated space for documenting my technical approach to algorithmic challenges. As an **AI Product Manager**, my goal isn't just to write working code, but to design clean, scalable logic and document the "product requirements" behind every solution.
 
 ## 🚀 The Mission
@@ -16,18 +14,11 @@ This repository is a dedicated space for documenting my technical approach to al
 
 ## 📂 Laboratory Contents
 
-<<<<<<< HEAD
 | Challenge          | Technical Focus                        |
 | :----------------- | :------------------------------------- |
 | **Hello World**    | Basic Output & Environment Setup       |
 | **Python If-Else** | Cascading Conditionals & Parity Checks |
 | **Arithmetic Operators** | Mathematical Operations & STDIN | 
-=======
-| Challenge          | Technical Focus                        | Documentation                           |
-| :----------------- | :------------------------------------- | :-------------------------------------- |
-| **Hello World**    | Basic Output & Environment Setup       | [View Logic](./Hello_World.txt)         |
-| **Python If-Else** | Cascading Conditionals & Parity Checks | [View Logic](./conditional_if_else.txt) |
-| **Arithmetic Operators** | Mathematical Operations & STDIN | [View Logic](./arithmetic_operators.txt) |
 
 ---
 
