@@ -14,11 +14,22 @@ This repository is a dedicated space for documenting my technical approach to al
 
 ## 📂 Laboratory Contents
 
+_**Introduction:**
+
 | Challenge          | Technical Focus                        |
 | :----------------- | :------------------------------------- |
 | **Hello World**    | Basic Output & Environment Setup       |
 | **Python If-Else** | Cascading Conditionals & Parity Checks |
 | **Arithmetic Operators** | Mathematical Operations & STDIN | 
+
+---
+
+_**Basic Data Type:**
+
+| Challenge          | Technical Focus                        |
+| :----------------- | :------------------------------------- |
+| **Lists**    | BCommand Dispatcher Pattern, String Splitting, 
+and List Method implementation.       |
 
 ---
 
@@ -39,22 +50,13 @@ For every problem in this lab, I follow a three-step process:
 3. **Refinement:** Optimizing the order of operations to reduce computational waste (e.g., handling odd numbers first in parity checks).
 <<<<<<< HEAD
 ---
-## 🤝 Connect with Me
-=======
-
----
 
 ## 🤝 Connect with Me
-
->>>>>>> c61be2c (checking repo)
-If you're interested in AI Product Management or technical problem-solving, let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_ID_HERE)
 
+If you're interested in AI Product Management or technical problem-solving, let's connect!
+
 ---
-<<<<<<< HEAD
-*“Good code is its own documentation, but great code is backed by a clear product vision.”*
-=======
 
 _“Good code is its own documentation, but great code is backed by a clear product vision.”_
->>>>>>> c61be2c (checking repo)
