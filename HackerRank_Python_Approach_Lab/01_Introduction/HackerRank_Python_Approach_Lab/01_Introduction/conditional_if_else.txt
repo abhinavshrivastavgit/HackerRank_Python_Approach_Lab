@@ -1,0 +1,4 @@
+Why we document it this way:
+Cascading Logic: By handling the "Odd" case first, you simplify the rest of your code.
+
+Readability: Using 2 <= n <= 5 is very "Pythonic"—it reads exactly like a math textbook.

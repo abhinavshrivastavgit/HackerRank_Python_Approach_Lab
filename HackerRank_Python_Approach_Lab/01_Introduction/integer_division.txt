@@ -1,0 +1,8 @@
+Technical Logic
+In Python 3, division behaves in two distinct ways:
+
+-->Integer (Floor) Division (//): Divides two numbers and rounds down to the lowest integer.
+
+   Your code used int(a/b), which works similarly but is less "Pythonic" than using the // operator.
+
+-->Float Division (/): Performs standard division and always returns a floating-point number (decimal), even if the result is a whole number.
