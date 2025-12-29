@@ -28,7 +28,7 @@ _**Basic Data Type:**
 
 | Challenge          | Technical Focus                                      |
 | :----------------- | :-------------------------------------                |
-| **Lists**    | BCommand Dispatcher Pattern, String Splitting, and List Method implementation. |
+| **Lists**    | Command Dispatcher Pattern, String Splitting, and List Method implementation. |
 
 ---
 
