@@ -14,11 +14,11 @@ This repository is a dedicated space for documenting my technical approach to al
 
 ## 📂 Laboratory Contents
 
-| Challenge          | Technical Focus                        | Documentation                           |
-| :----------------- | :------------------------------------- | :-------------------------------------- |
-| **Hello World**    | Basic Output & Environment Setup       | [View Logic](./Hello_World.txt)         |
-| **Python If-Else** | Cascading Conditionals & Parity Checks | [View Logic](./conditional_if_else.txt) |
-| **Arithmetic Operators** | Mathematical Operations & STDIN | [View Logic](./arithmetic_operators.txt) |
+| Challenge                | Technical Focus                        | Documentation                            |
+| :----------------------- | :------------------------------------- | :--------------------------------------- |
+| **Hello World**          | Basic Output & Environment Setup       | [View Logic](./Hello_World.txt)          |
+| **Python If-Else**       | Cascading Conditionals & Parity Checks | [View Logic](./conditional_if_else.txt)  |
+| **Arithmetic Operators** | Mathematical Operations & STDIN        | [View Logic](./arithmetic_operators.txt) |
 
 ---
 
@@ -44,7 +44,4 @@ If you're interested in AI Product Management or technical problem-solving, let'
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_ID_HERE)
 
-
-
 _“Good code is its own documentation, but great code is backed by a clear product vision.”_
-
