@@ -47,4 +47,4 @@ If you're interested in AI Product Management or technical problem-solving, let'
 
 
 _“Good code is its own documentation, but great code is backed by a clear product vision.”_
->>>>>>> c61be2c (checking repo)
+
