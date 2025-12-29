@@ -1,0 +1,70 @@
+============================================================
+DOCUMENTATION: Python Dynamic List Operations
+Author: Abhinav Shrivastav
+GitHub: https://github.com/abhinavshrivastavgit
+============================================================
+
+1. OVERVIEW
+-----------
+This script implements a command-driven list management system. 
+It allows a user to perform various operations on a Python list 
+dynamically by providing text-based commands via standard input.
+
+2. SUPPORTED COMMANDS
+---------------------
+The script parses the following commands:
+
+- insert i e: Insert integer e at position i.
+- print:      Display the current state of the list.
+- remove e:   Delete the first occurrence of integer e.
+- append e:   Add integer e to the end of the list.
+- sort:       Sort the list in ascending order.
+- pop:        Remove the last element from the list.
+- reverse:    Reverse the order of elements in the list.
+
+3. INPUT FORMAT
+---------------
+- Line 1: An integer N, denoting the number of commands to follow.
+- Next N Lines: A command string followed by its respective 
+  integer arguments (if any).
+
+4. CODE LOGIC BREAKDOWN
+-----------------------
+- Entry Point: Uses 'if __name__ == "__main__":' to ensure the 
+  script runs only when executed directly.
+- Parsing: Uses .split() to break the input string into a list 
+  of words (e.g., ["insert", "0", "5"]).
+- Conversion: Arguments are converted from strings to integers 
+  using int() before being passed to list methods.
+- Execution: Uses an if-elif chain to match the command string 
+  to the correct Python list method.
+
+5. EXAMPLE USAGE
+----------------
+Input:
+12
+insert 0 5
+insert 1 10
+insert 0 6
+print
+remove 6
+append 9
+append 1
+sort
+print
+pop
+reverse
+print
+
+Output:
+[6, 5, 10]
+[1, 5, 9, 10]
+[9, 5, 1]
+
+6. TECHNICAL NOTES
+------------------
+- Complexity: Most operations (append, pop, reverse) are O(1) 
+  or O(n), while sort is O(n log n).
+- Memory: The list resides in RAM during execution; it is not 
+  persisted to a database.
+============================================================
