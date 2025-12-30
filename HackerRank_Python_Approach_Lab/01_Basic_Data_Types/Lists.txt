@@ -67,4 +67,15 @@ Output:
   or O(n), while sort is O(n log n).
 - Memory: The list resides in RAM during execution; it is not 
   persisted to a database.
+
+The Deep Logic: The Command Dispatcher
+In your Lists.py solution, you didn't just write a script; you built a Dispatcher. In professional software, this is how APIs and Operating Systems work.
+
+ Tokenization: When you used line = input().split(), you performed "tokenization." You turned a raw string (unstructured data) into a list of tokens (structured data).
+
+ The "Head" and "Tail": * line[0] is your OpCode (Operation Code). It tells the CPU/Program what to do.
+
+   line[1:] are your Arguments. They provide the data needed for that specific operation.
+
+ Dynamic Execution: Notice how your code handles different "shapes" of data. For sort(), it ignores arguments; for insert(), it requires two. This flexibility is the hallmark of a robust dispatcher.
 ============================================================
